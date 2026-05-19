@@ -33,7 +33,7 @@ export const personalInfo = {
   email: "harisharumugam2005@gmail.com",
   phone: "6379405973",
   github: "https://github.com/Harish05A",
-  linkedin: "https://linkedin.com/in/harish-a",
+  linkedin: "https://www.linkedin.com/in/harish-a-3a2b4128b",
   resumeFileName: "Harish_Resume.pdf",
 };
 
